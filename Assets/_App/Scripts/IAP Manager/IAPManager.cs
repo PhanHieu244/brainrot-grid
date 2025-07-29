@@ -7,12 +7,12 @@ using UnityEngine.Purchasing;
 
 public class IAPKey
 {
-    public const string PACK6= "jewel.merge.game.pack6";
-    public const string PACK1= "jewel.merge.game.pack1";
-    public const string PACK2= "jewel.merge.game.pack2";
-    public const string PACK3= "jewel.merge.game.pack3";
-    public const string PACK4= "jewel.merge.game.pack4";
-    public const string PACK5= "jewel.merge.game.pack5";
+    public const string PACK1= "brainrot.grid.pack1";
+    public const string PACK2= "brainrot.grid.pack2";
+    public const string PACK3= "brainrot.grid.pack3";
+    public const string PACK4= "brainrot.grid.pack4";
+    public const string PACK5= "brainrot.grid.pack5";
+    public const string PACK6= "brainrot.grid.pack6";
 }
 
 public class IAPManager : PersistentSingleton<IAPManager>, IStoreListener
